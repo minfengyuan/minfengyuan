@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minfengyuan
-- 👀 I’m interested in computer vision
-- 🌱 I’m currently learning computer vision
-- 💞️ I’m looking to collaborate on machine vision
+- 👀 I’m interested in computer vision and deep learning
+- 🌱 I’m currently learning slam and model deploying
+- 💞️ I’m looking to collaborate on building AI system framework
 - 📫 mfyuan232@outlook.com
 
 <!---
