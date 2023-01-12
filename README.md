@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @minfengyuan
-- 👀 I’m interested in computer vision and artificial intelligence
-- 🌱 I’m currently learning model deploying
-- 📫 mfyuan232@outlook.com
+CV engineer interested in DL and visual perception.
 
 <!---
 minfengyuan/minfengyuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
