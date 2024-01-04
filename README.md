@@ -1,4 +1,4 @@
-CV engineer interested in DL and visual perception.
+A novice CV engineer
 
 <!---
 minfengyuan/minfengyuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
